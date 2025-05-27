@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>シンプル・プロンプトメーカー</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="box">
+    <h2>プロンプトメーカー ベース版</h2>
+    <label>
+      ジャンル:
+      <select id="genre"></select>
+    </label>
+    <label>
+      表情:
+      <select id="expression"></select>
+    </label>
+    <label>
+      衣装:
+      <select id="costume"></select>
+    </label>
+    <button id="generate">プロンプト生成</button>
+    <div class="result" id="promptResult"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
