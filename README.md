@@ -4,7 +4,7 @@
 
 HTML／CSS／JS／JSONが分割されていてカスタマイズ簡単。
 data.jsonを編集して選択肢を増減、style.cssでデザイン調整、script.jsで生成文を変更。
-index.htmlを開けばすぐ動作。GitHub Pagesで公開も可能（https://mochipj2025.github.io/present.prompt/）
+index.htmlを開けばすぐ動作。GitHub Pagesで公開も可能　https://mochipj2025.github.io/present.prompt/
 
 ■ファイル構成
 present.prompt/
