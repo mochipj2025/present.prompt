@@ -14,7 +14,7 @@ present.prompt/
 └── script.js    … 生成ロジック
 
 ■使い方
-1. このリポジトリをダウンロードorクローン（git clone https://github.com/mochipj2025/present.prompt.git　）
+1. このリポジトリをダウンロードorクローン　git clone https://github.com/mochipj2025/present.prompt.git
 2. index.htmlを開く
 3. data.json編集で項目追加、style.cssで見た目変更、script.jsで生成文変更
 
